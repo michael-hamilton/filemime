@@ -1,0 +1,12 @@
+#OS/Editor
+.DS_Store
+.idea
+*.sublime-project
+*.sublime-workspace
+
+#Package Manager
+node_modules
+bower_components
+
+#Logs
+*.log
