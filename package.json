@@ -1,6 +1,6 @@
 {
   "name": "filemime",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "MIME type filename parser",
   "main": "index.js",
   "scripts": {
