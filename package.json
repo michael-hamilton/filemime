@@ -2,6 +2,10 @@
   "name": "filemime",
   "version": "0.1.0",
   "description": "MIME type filename parser",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michael-hamilton/filemime/"
+  },
   "main": "index.js",
   "scripts": {
     "test": "mocha"
