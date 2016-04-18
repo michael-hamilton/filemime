@@ -1,11 +1,15 @@
 {
   "name": "filemime",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "MIME type filename parser",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Michael Hamilton",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
 }
